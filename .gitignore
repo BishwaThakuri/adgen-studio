@@ -1,0 +1,24 @@
+# Python Virtual Environment
+venv/
+*.env
+.env
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.pytest_cache/
+*.egg-info/
+
+# Our local test files
+test-product.jpg
+test-product-output.png
