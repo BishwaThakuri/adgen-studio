@@ -3,3 +3,5 @@ Pillow
 onnxruntime
 torch
 transformers
+diffusers
+accelerate
