@@ -8,3 +8,5 @@ accelerate
 fastapi
 uvicorn[standard]
 python-multipart
+streamlit
+requests
