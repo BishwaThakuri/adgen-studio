@@ -5,3 +5,6 @@ torch
 transformers
 diffusers
 accelerate
+fastapi
+uvicorn[standard]
+python-multipart
